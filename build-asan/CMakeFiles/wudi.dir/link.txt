@@ -1,0 +1,1 @@
+/usr/bin/c++ -fsanitize=address,undefined -fno-omit-frame-pointer -g -fsanitize=address,undefined CMakeFiles/wudi.dir/src/hello.cpp.o -o wudi 
